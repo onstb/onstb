@@ -4,7 +4,9 @@
 
 
 🌱 Currently studying Software Architecture Engineering and passionate about web development and data analysis
+
 💰 Experienced in cryptocurrency trading
+
 👨‍💻 Eager to learn more about software development, Web3 technologies, and machine learning
 
 
