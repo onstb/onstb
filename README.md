@@ -1,18 +1,22 @@
 
-<h1 align="center">Hi There👋, I'm Ons Trabelsi</h1>
-<h3 align="center">Aspiring Software Architecture Engineer passionate about web development and technology. Always curious and eager to learn, I'm exploring fields like data analysis and machine learning, and I'm excited to collaborate with fellow tech enthusiasts.</h3>
+<h1 align="center" style="background-color: #f0f8ff; padding: 20px;">Hi There👋, I'm Ons Trabelsi</h1>
+<h3 align="center" style="background-color: #f0f8ff; padding: 10px;">
+Aspiring Software Architecture Engineer passionate about web development and technology. Always curious and eager to learn, I'm exploring fields like data analysis and machine learning, and I'm excited to collaborate with fellow tech enthusiasts.
+</h3>
 
-- 🌱 Currently exploring software architecture engineering, with a strong passion for web development and data analysis.
-- 💡 Experienced in web technologies and eager to dive deeper into software development, Web3 technologies, and machine learning.
-- 💰 Experienced in cryptocurrency trading.
+<p style="background-color: #f9f9f9; padding: 15px;">
+🌱 Currently exploring software architecture engineering, with a strong passion for web development and data analysis.<br>
+💡 Experienced in web technologies and eager to dive deeper into software development, Web3 technologies, and machine learning.<br>
+💰 Experienced in cryptocurrency trading.
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: #e6f7ff; padding: 10px;">
 <a href="https://www.linkedin.com/in/ons-trabelsi-35a0911a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ons Trabelsi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="background-color: #f0f8ff; padding: 15px;">
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
