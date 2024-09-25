@@ -3,8 +3,9 @@
 <h3 align="center" style="background-color: #f0f8ff; padding: 10px;">
 Aspiring Software Architecture Engineer passionate about web development and technology. Always curious and eager to learn, I'm exploring fields like data analysis and machine learning, and I'm excited to collaborate with fellow tech enthusiasts.
 </h3>
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVnZHltbjJienc2MHBmenMyZjcxd2F3dGF4bGJ2MjR5anZnbnpkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVnZHltbjJienc2MHBmenMyZjcxd2F3dGF4bGJ2MjR5anZnbnpkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+</div>
 <p style="background-color: #f9f9f9; padding: 15px;">
 💻 Passionate about Full Stack development, with expertise in building scalable web applications.<br>
 🚀 Continuously learning and growing, especially in areas like software architecture and cloud technologies.<br>
