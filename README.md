@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Ons+Trabelsi..&hearts;++;Aspiring+Software+Architecture+Engineer,;Passionate+about+Web+Development,;Always+learning+and+exploring+new+tech..<3"></a>
 </p>
 <div align="left">
-<img title="My Avatar" align="left" src="/onsavatar.png" width="500" alt="Ons Trabelsi">
+<img title="My Avatar" align="left" src="/ons'savatar.png" width="500" alt="Ons Trabelsi">
 </div>
 <p style="background-color: #f9f9f9; padding: 15px;">
 💻 Passionate about Full Stack development, with expertise in building scalable web applications.<br>
