@@ -46,5 +46,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onstb&layout=compact&theme=tokyonight)
 ![Ons Trabelsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onstb&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=onstb&theme=tokyonight)
-![Snake animation](https://github.com/onstb/blob/output/github-contribution-grid-snake.svg)
 ![Profile views](https://komarev.com/ghpvc/?username=onstb&color=blueviolet&style=flat)
