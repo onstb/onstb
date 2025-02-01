@@ -4,7 +4,7 @@
 </p>
 
 <!-- Avatar -->
-<img title="My Avatar" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVnZHltbjJienc2MHBmenMyZjcxd2F3dGF4bGJ2MjR5anZnbnpkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+<img title="My Avatar" align="right" src="https://i.imgur.com/kVq5L8p.png" width="250" alt="Avatar">
 
 <!-- About Me -->
 **About Me**
@@ -25,22 +25,27 @@ I'm Ons Trabelsi, an aspiring **Software Architecture Engineer** with a passion 
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OnsTrabelsi&show_icons=true&locale=en&layout=compact&langs_count=10&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OnsTrabelsi&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnsTrabelsi&theme=algolia)](https://github.com/OnsTrabelsi)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OnsTrabelsi&show_icons=true&theme=radical&count_private=true&hide=stars,issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnsTrabelsi&langs_count=3&layout=compact&theme=algolia)
+
+- **Java**: 50%
+- **Python**: 30%
+- **JavaScript**: 20%
 
 ---
 
 <!-- Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
