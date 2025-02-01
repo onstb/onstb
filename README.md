@@ -42,8 +42,11 @@
 </p>
 
 
+<br><br>
+<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onstb&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onstb&layout=compact&theme=tokyonight)<br><br>
 ![Ons Trabelsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onstb&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=onstb&theme=tokyonight)
 ![Profile views](https://komarev.com/ghpvc/?username=onstb&color=blueviolet&style=flat)
+
